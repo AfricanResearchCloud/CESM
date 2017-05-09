@@ -1,0 +1,1163 @@
+01 Agriculture, Agricultural Operations and Related Sciences
+0101 Agricultural Business and Management
+010101 Agribusiness/Agricultural Business operations
+010102 Agricultural Economics
+010103 Wildlife and Other Reserve Management
+010104 Agricultural/Farm Supplies Retailing and Wholesaling
+010105 Agricultural Business Technology
+010106 Agricultural Extension
+010199 AgriculturalBusinessandManagement,Other
+0102 Agricultural Mechanisation
+010201 Agricultural Mechanisation
+010202 Agricultural Mechanics and Equipment/Machine Technology
+010299 Agricultural Mechanisation, Other
+0103 Agricultural Production Operations
+010301 Animal/Livestock Husbandry and Production
+010302 Aquaculture
+010303 Crop Production
+010304 Dairy Husbandry and Production
+010305 Fishing and Fisheries Sciences and Management
+010306 Horse Husbandry/Equine Science and Management
+010399 Agricultural Production Operations, Other
+0104 Applied Horticulture and Horticultural Business Services
+010401 Applied Horticulture/Horticultural Operations, General
+010402 Ornamental Horticulture
+010403 Greenhouse Operations and Management
+010404 Landscaping and Grounds Keeping
+010405 Plant Nursery Operations and Management
+010406 Turf and Turf Grass Management
+010407 Floriculture/Floristry Operations and Management
+010499 Applied Horticulture and Horticultural Business Services, Other
+0105 International Agriculture
+010501 International Agriculture
+0106 Animal Sciences
+010601 Animal Sciences, General
+010602 Agricultural Animal Breeding
+010603 Animal Health
+010604 Animal Nutrition
+010605 Dairy Science
+010606 Livestock Management
+010607 Poultry Science
+010699 Animal Sciences, Other
+0107 Food Science and Technology
+010701 Food Science
+010702 Food Technology and Processing
+010703 Oenology and Wine Biotechnology
+010799 Food Science and Technology, Other
+0108 Plant Sciences
+010801 Plant Sciences, General
+010802 Agronomy and Crop Science
+010803 Horticultural Science
+010804 Agricultural and Horticultural Plant Breeding
+010805 Plant Protection and Integrated Pest Management
+010806 Range Science and Management
+010807 Viticulture and Grapevine Biotechnology
+010899 Plant Sciences, Other
+0109 Soil Sciences
+010901 Soil Science and Agronomy, General
+010902 Soil Chemistry and Physics
+010903 Soil Microbiology
+010999 Soil Sciences, Other
+0110 Forestry and Wood Sciences
+011001 Wood and Wood Product Sciences
+011002 Forestry Sciences
+011099 Forestry and wood Sciences, Other
+0199 Agriculture, Agricultural Operations and Related Sciences, Other
+02 Architecture and the Built Environment
+0201 Architecture, General
+020101 Architecture, General
+0202 City/Urban, Community and Regional Planning
+020201 City/Urban, Community and Regional Planning
+0203 Building/Construction Site Management
+020301 Building/Construction Site Management
+020302 Construction Management
+020399 Building/Construction Site Management, Other
+0204 Environmental Design/Architecture
+020401 Environmental Design/Architecture
+0205 Interior Architecture and Design
+020501 Interior Architecture and Design
+0206 Landscape Architecture
+020601 Landscape Architecture
+0207 Architectural History and Criticism
+020701 Architectural History and Criticism
+0208 Architectural and Built Environment Technology
+020801 Architectural and Built Environment Technology
+0209 Quantity Surveying
+020901 Quantity Surveying
+0299 Architecture and the Built Environment, Other
+03 Visual and Performing Arts
+0301 Dance
+030101 Dance, General
+0302 Design and Applied Arts
+030201 Design and Visual Communications, General
+030202 Commercial and Advertising Art
+030203 Industrial Design
+030204 Commercial Photography
+030205 Fashion/Apparel Design
+030206 Interior Design
+030207 Graphic Design
+030208 Illustration
+030299 Design and Applied Arts, Other
+0303 Drama/Theatre Arts
+030301 Drama, Theatre and Performance, General
+030302 Theatre Design and Technology
+030303 Playwriting and Screenwriting
+030304 Theatre Literature, History and Criticism
+030305 Acting
+030306 Directing and Production for the Theatre
+030307 Performing Arts Management
+030399 Drama/Theatre Arts, Other
+0304 Film/Video and Photographic Arts
+030401 Film/Cinema Studies
+030402 Photography
+030499 Film/Video and Photographic Arts, Other
+0305 Fine and Studio Art
+030501 Art/Art Studies, General
+030502 Fine/Studio Arts, General
+030503 Art History, Criticism and Conservation
+030504 Arts Management
+030505 Drawing
+030506 Intermedia/Multimedia
+030507 Painting
+030508 Sculpture
+030509 Printmaking
+030510 Ceramic Arts and Ceramics
+030511 Fibre, Textile and Weaving Arts
+030512 Metal and Jewellery Arts
+030599 Fine and Studio Art, Other
+0306 Music
+030601 Music, General
+030602 Music History and Literature
+030603 Music Performance, General
+030604 Music Theory, Composition and Analysis
+030605 Musicology and Ethnomusicology
+030606 Conducting
+030607 Piano and Related Instruments
+030608 Voice and Opera
+030609 Music Management and Merchandising
+030610 Jazz/Jazz Studies
+030611 Violin, Viola, Guitar and Other Stringed Instruments
+030612 Wind Instruments
+030613 Music Pedagogy
+030699 Music, Other
+0399 Visual and Performing Arts, Other
+04 Business, Economics and Management Studies
+0401 Business Administration, Management and Operations
+040101 Business Administration and Management, General
+040102 Purchasing, Procurement/Acquisitions and Contracts Management
+040103 Logistics and Materials Management
+040104 Office Management and Supervision
+040105 Operations Management and Supervision
+040106 Non-Profit/Public/Organisational Management
+040107 Customer Service Management
+040108 E-Commerce
+040109 Transportation/Transportation Management
+040110 Project Management
+040199 Business Administration, Management and Operations, Other
+0402 Accounting and Related Services
+040201 Accounting
+040202 Auditing
+040203 Accounting and Finance
+040299 Accounting and Related Services, Other
+0403 Business/Corporate Communications
+040301 Business/Corporate Communications
+0404 Economics
+040401 Economics, General
+040402 Applied Economics
+040403 Managerial Economics
+040404 Econometrics and Quantitative Economics
+040405 Development Economics and International Development
+040406 International Economics
+040407 Natural Resource Economics
+040499 Economics, Other
+0405 Entrepreneurial and Small Business Operations
+040501 Entrepreneurial/Entrepreneurial Studies
+040502 Franchising and Franchise Operations
+040503 Small Business Administration/Management
+040599 Entrepreneurial and Small Business Operations, Other
+0406 Finance and Financial Management Services
+040601 Finance, General
+040602 Banking and Financial Support Systems
+040603 Financial Planning and Services
+040604 International Finance
+040605 Investments and Securities
+040606 Public Finance
+040607 Credit Management
+040699 Finance and Financial Management Services, Other
+0407 Hospitality Administration/Management
+040701 Hospitality Administration/Management, General
+040702 Tourism and Travel Services Management
+040703 Hotel/Motel Administration/Management
+040704 Restaurant/Food Services Management
+040799 Hospitality Administration/Management, Other
+0408 Human Resource Management and Services
+040801 Human Resource Management/Personnel Administration
+040802 Labour and Industrial Relations
+040803 Organisational Behaviour Studies
+040804 Labour Studies
+040805 Human Resource Development
+040899 Human Resource Management and Services, Other
+0409 International Business
+040901 International Business
+0410 Management Sciences and Quantitative Methods
+041001 Management Science, General
+041002 Business Statistics
+041003 Actuarial Science
+041099 Management Sciences and Quantitative Methods, Other
+0411 Marketing
+041101 Marketing/Marketing Management, General
+041102 Marketing Research
+041103 International Marketing
+041199 Marketing, Other
+0412 Real Estate
+041201 Real Estate
+0413 Taxation
+041301 Taxation
+0414 Insurance
+041401 Insurance
+0415 General Sales, Merchandising and Related Marketing Operations
+041501 Sales, Distribution and Marketing Operations, General
+041502 Merchandising and Buying Operations
+041503 Retailing and Retail Operations
+041504 Selling Skills and Sales Operations
+041599 General Sales, Merchandising and Related Marketing Operations, Other
+0416 Specialised Sales, Merchandising and Marketing Operations
+041601 Auctioneering
+041602 Fashion Merchandising
+041603 Apparel and Accessories Marketing Operations
+041604 Tourism and Travel Services Marketing Operations
+041605 Tourism Promotion Operations
+041606 Vehicle and Vehicle Parts and Accessories Marketing Operations
+041607 Business and Personal/Financial Services Marketing Operations
+041608 Special Products Marketing Operations
+041609 Hospitality and Recreation Marketing Operations
+041699 Specialised Sales, Merchandising and Marketing Operations, Other
+0417 Parks, Recreation and Leisure Facilities Management
+041701 Parks, Recreation and Leisure Facilities Management
+041702 Sport and Fitness Administration and Management
+041799 Parks, Recreation and Leisure Facilities Management, Other
+0499 Business, Economics and Management Studies, Other
+05 Communication, Journalism and Related Studies
+0501 Communication and Media Studies
+050101 Communication Studies/Speech Communication and Rhetoric
+050102 Mass Communication/Media Studies
+050199 Communication and Media Studies, Other
+0502 Journalism
+050201 Print Journalism
+050202 Broadcast Journalism
+050203 Photojournalism
+050204 New Media
+050299 Journalism, Other
+0503 Radio, Television and Digital Communication
+050301 Radio and Television
+050302 Digital Communication and Media/Multimedia
+050399 Radio, Television and Digital Communication, Other
+0504 Public Relations, Advertising and Applied Communication
+050401 Organisational Communication, General
+050402 Public Relations/Image Management
+050403 Advertising
+050404 Political Communication
+050405 Health Communication
+050499 Public Relations, Advertising and Applied Communication, Other
+0505 Publishing
+050501 Publishing
+0599 Communication, Journalism and Related Studies, Other
+06 Computer and Information Sciences
+0601 Computer and Information Sciences
+060101 Computer and Information Sciences, General
+060102 Artificial Intelligence and Robotics
+060103 Information Technology
+060199 Computer and Information Sciences, Other
+0602 Computer Programming
+060201 Computer Programming, General
+060202 Computer Programming, Specific Applications
+060299 Computer Programming, Other
+0603 Data Processing and Information Science
+060301 Data Processing and Data Processing Technology
+060302 Information Science
+060399 Data Processing and Information Science, Other
+0604 Computer Business Systems Analysis
+060401 Computer Business Systems Analysis
+0605 Data Entry/Microcomputer Applications
+060501 Data Entry/Microcomputer Applications, General
+060502 Word Processing
+060599 Data Entry/Microcomputer Applications, Other
+0606 Computer Science
+060601 Computer Science
+0607 Computer Software and Media Applications
+060701 Web Page, Digital/Multimedia and Information Resources Design
+060702 Data Modelling/Warehousing and Database Administration
+060703 Computer Graphics
+060699 Computer Software and Media Applications, Other
+0608 Computer Systems Networking and Telecommunications
+060801 Computer Systems Networking and Telecommunications
+0609 Computer/Information Technology Administration and Management
+060901 Systems Administration
+060902 Systems, Networking and LAN/WAN Management
+060903 Computer and Information Systems Security
+060904 Web/Multimedia Management
+060999 Computer/ Information Technology Administration and Management, Other
+0610 Management Information Systems and Services
+061001 Management Information Systems, General
+061002 Information Resources Management
+061003 Knowledge Management
+061099 Management Information Systems and Services, Other
+0699 Computer and Information Sciences, Other
+07 Education
+0701 Education, General
+070101 Education, General
+070102 Academic Literacy
+070199 Education, General: Other
+0702 Curriculum and Instruction
+070201 Curriculum and Instruction
+0703 Educational Management and Leadership
+070301 Educational Leadership and Management, General
+070302 Management of Special Education
+070303 Adult Education and Training Management
+070304 Educational, Instructional and Curriculum Supervision
+070305 Higher Education/Higher Education Management
+070306 Early Childhood Development and Primary School Management
+070307 Secondary School Management
+070308 Middle Management and Educational System Administration
+070399 Educational Management and Leadership, Other
+0704 Educational/Instructional Media Design
+070401 Educational/Instructional Media Design
+0705 Educational Assessment, Evaluation and Research
+070501 Educational Evaluation and Research
+070502 Educational Statistics and Research Methods
+070503 Educational Assessment, Testing and Measurement
+070599 Educational Assessment, Evaluation and Research, Other
+0706 International and Comparative Education
+070601 International and Comparative Education
+0707 Social and Philosophical Foundations of Education
+070701 Social and Philosophical Foundations of Education
+0708 Special Needs Education
+070801 Special Needs Education, General
+070802 Education/Teaching of Individuals with Hearing Impairments/Deafness
+070803 Education/Teaching of the Gifted and Talented
+070804 Education/Teaching of Individuals with Emotional Disturbances
+070805 Education/Teaching of Individuals with Mental Disabilities
+070806 Education/Teaching of Individuals with Multiple Disabilities
+070807 Education/Teaching of Individuals with Physical Health Impairments
+070808 Education/Teaching of Individuals with Vision Impairments (including Blindness)
+070809 Education/Teaching of Individuals with Specific Learning Disabilities
+070810 Education/Teaching of Individuals with Speech or Language Impairments
+070811 Education/Teaching of Individuals with Autism
+070899 Special Needs Education, Other
+0709 Counsellor Education and Guidance Services
+070901 Counsellor Education and Guidance Services, General
+0710 Teaching Education and Professional Development, Specific Levels and Methods
+071001 Adult Education and Training
+071002 Early Childhood Development and General Education and Training
+071003 Further Education and Training
+071004 Teacher Education: Multiple Levels
+071099 Teacher Education and Professional Development, Specific Levels and Methods, Other
+0711 Teacher Education and Professional Development, Specific Subject Areas, Early Childhood Development (ECD) and General Education and Training (GET)
+071101 Languages: Afrikaans (Grades R-9) – ECD and GET
+071102 Languages: English (Grades R-9) – ECD and GET
+071103 Languages: IsiNdebele (Grades R-9) – ECD and GET
+071104 Languages: IsiXhosa (Grades R-9) – ECD and GET
+071105 Languages: IsiZulu (Grades R-9) – ECD and GET
+071106 Languages: Sepedi (Grades R-9) – ECD and GET
+071107 Languages: Sesotho (Grades R-9) – ECD and GET
+071108 Languages: Setswana (Grades R-9) – ECD and GET
+071109 Languages: Siswati (Grades R-9) – ECD and GET
+071110 Languages: Tshivenda (Grades R-9) – ECD and GET
+071111 Languages: Xitsonga (Grades R-9) – ECD and GET
+071112 Mathematics – ECD and GET
+071113 Natural Sciences – ECD and GET
+071114 Social Sciences – ECD and GET
+071115 Arts and Culture – ECD and GET
+071116 Life Orientation – ECD and GET
+071117 Economic and Management Sciences – ECD and GET
+071118 Physical Education – ECD and GET
+071119 Technology – ECD AND GET
+071199 Teacher Education and Professional Development, Specific Subject Areas, Early Childhood Development and General Education and Training, Other
+0712 Teacher Education and Professional Development, Specific Subject Areas, Further Education and Training (FET)
+071201 FET: Accounting
+071202 FET: Agricultural Management Practices
+071203 FET: Agricultural Sciences
+071204 FET: Agricultural Technology
+071205 FET: Business Sciences
+071206 FET: Civil Technology
+071207 FET: Computer Applications Technology
+071208 FET: Consumer Studies
+071209 FET: Dance Studies
+071210 FET: Design
+071211 FET: Dramatic Arts
+071212 FET: Economics
+071213 FET: Electrical Technology
+071214 FET: Engineering Graphics and Design
+071215 FET: Geography
+071216 FET: History
+071217 FET: Hospitality Studies
+071218 FET: Information Technology
+071219 FET: Languages: Afrikaans
+071220 FET: Languages: English
+071221 FET: Languages: IsiNdebele
+071222 FET: Languages: IsiXhosa
+071223 FET: Languages: IsiZulu
+071224 FET: Languages: Sepedi
+071225 FET: Languages: Sesotho
+071226 FET: Languages: Setswana
+071227 FET: Languages: Siswati
+071228 FET: Languages: Tshivenda
+071229 FET: Languages: Xitsonga
+071230 FET: Life Orientation
+071231 FET: Life Sciences
+071232 FET: Mathematical Literacy
+071233 FET: Mathematics
+071234 FET: Mechanical Technology
+071235 FET: Music
+071236 FET: Physical Science
+071237 FET: Religious Studies
+071238 FET: Tourism
+071239 FET: Visual Arts
+071240 FET: Physical Education
+071299 Teacher Education and Professional Development, Specific Subject Areas, Further Education and Training, Other
+0799 Education, Other
+08 Engineering
+0801 Aerospace, Aeronautical and Astronautical Engineering
+080101 Aerospace, Aeronautical and Astronautical Engineering
+0802 Agricultural/Biological Engineering and Bio-engineering
+080201 Agricultural/Biological Engineering and Bio-engineering
+0803 Architectural Engineering
+080301 Architectural Engineering
+0804 Biomedical/Medical Engineering
+080401 Biomedical/Medical Engineering
+0805 Ceramic Sciences and Engineering
+080501 Ceramic Sciences and Engineering
+0806 Chemical Engineering
+080601 Chemical Engineering
+0807 Civil Engineering
+080701 Civil Engineering, General
+080702 Geotechnical Engineering
+080703 Structural Engineering
+080704 Transportation and Highway Engineering
+080705 Water Resources Engineering
+080799 Civil Engineering, Other
+0808 Computer Engineering
+080801 Computer Engineering, General
+080802 Computer Hardware Engineering
+080803 Computer Software Engineering
+080899 Computer Engineering, Other
+0809 Electrical, Electronics and Communications Engineering
+080901 Electrical, Electronics and Communications Engineering
+0810 Engineering Mechanics
+081001 Engineering Mechanics
+0811 Engineering Physics
+081101 Engineering Physics
+0812 Engineering Science
+081201 Engineering Science
+0813 Environmental/Environmental Health Engineering
+081301 Environmental/Environmental Health Engineering
+0814 Materials Engineering
+081401 Materials Engineering
+0815 Mechanical and Mechatronic Engineering
+081501 Mechanical Engineering
+081502 Mechatronic Engineering
+081599 Mechanical and Mechatronic Engineering, Other
+0816 Metallurgical Engineering
+081601 Metallurgical Engineering
+0817 Mining and Mineral Engineering
+081701 Mining and Mineral Engineering
+0818 Naval Architecture and Marine Engineering
+081801 Naval Architecture and Marine Engineering
+0819 Nuclear Engineering
+081901 Nuclear Engineering
+0820 Ocean Engineering
+082001 Ocean Engineering
+0821 Petroleum Engineering
+082101 Petroleum Engineering
+0822 Systems Engineering
+082201 Systems Engineering
+0823 Textile Sciences and Engineering
+082301 Textile Sciences and Engineering
+0824 Materials Science
+082401 Materials Science
+0825 Polymer/Plastics Engineering
+082501 Polymer/Plastics Engineering
+0826 Construction Engineering
+082601 Construction Engineering
+0827 Forest Engineering
+082701 Forest Engineering
+0828 Industrial Engineering
+082801 Industrial Engineering
+0829 Manufacturing Engineering
+082901 Manufacturing Engineering
+0830 Operations Research
+083001 Operations Research
+0831 Surveying Engineering
+083101 Surveying Engineering
+0832 Geological/Geophysical Engineering
+083201 Geological/Geophysical Engineering
+0899 Engineering, Other
+09 Health Professions and Related Clinical Sciences
+0901 Chiropractic
+090101 Chiropractic
+0902 Communications Disorders Sciences and Services
+090201 Communication Disorders, General
+090202 Audiology and Hearing Sciences
+090203 Speech-Language Pathology
+090204 Audiology and Speech-Language Pathology
+090299 Communications Disorders Sciences and Services, Other
+0903 Dentistry, Advanced Dentistry and Oral Sciences
+090301 Dentistry
+090302 Dental Clinical Sciences, General
+090303 Advanced General Dentistry
+090304 Oral Biology and Oral Pathology
+090305 Dental Public Health and Education
+090306 Dental Materials
+090307 Endodontics/Endodontology
+090308 Oral/Maxillofacial Surgery
+090309 Orthodontics/Orthodontology
+090310 Paediatric Dentistry/Paedodontics
+090311 Periodontics/Periodontology
+090312 Prosthodontics/Prosthodontology
+090399 Dentistry, Advanced Dentistry and Oral Sciences, Other
+0904 Dental Support Services and Allied Professions
+090401 Dental Assisting
+090402 Dental Hygiene
+090403 Dental Laboratory Technology
+090499 Dental Services and Allied Professions, Other
+0905 Health and Medical Administrative Services
+090501 Health Care Administration/Management
+090502 Hospital and Health Care Facilities Administration/Management
+090599 Health and Medical Administrative Services, Other
+0906 Medicine
+090601 Medicine
+0907 Medical Clinical Sciences
+090701 Aerospace Medicine
+090702 Allergies and Immunology
+090703 Anaesthesiology
+090704 Cardiology
+090705 Paediatric Cardiology
+090706 Chemical Pathology
+090707 Neurology
+090708 Paediatric Neurology
+090709 Psychiatry
+090710 Child Psychiatry
+090711 Colon and Rectal Surgery
+090712 Critical Care Anaesthesiology
+090713 Critical Care Medicine
+090714 Critical Care Surgery
+090715 Dermatology
+090716 Dermatopathology
+090717 Diagnostic Radiology
+090718 Emergency Medicine
+090719 Endocrinology and Metabolism
+090720 Family Medicine
+090721 Forensic Pathology
+090722 Gastroenterology
+090723 General Surgery
+090724 Hand Surgery
+090725 Paediatric Surgery
+090726 Geriatric Medicine
+090727 Haematology
+090728 Haematological Pathology
+090729 Immunopathology
+090730 Infectious Diseases
+090731 Internal Medicine
+090732 Laboratory Medicine
+090733 Musculoskeletal Oncology
+090734 Neonatal-Perinatal Medicine
+090735 Nephrology
+090736 Neurological Surgery/Neurosurgery
+090737 Neurology
+090738 Neuropathology
+090739 Nuclear Medicine
+090740 Nuclear Radiology
+090741 Obstetrics and Gynaecology
+090742 Occupational Medicine
+090743 Oncology
+090744 Ophthalmology
+090745 Orthopaedics/Orthopaedic Surgery
+090746 Otolaryngology
+090747 Pathology
+090748 Paediatric Endocrinology
+090749 Paediatric Haemato-Oncology
+090750 Paediatric Nephrology
+090751 Paediatric Orthopaedics
+090752 Paediatrics
+090753 Physical and Rehabilitation Medicine
+090754 Plastic Surgery
+090755 Preventive Medicine
+090756 Public Health Medicine
+090757 Pulmonary Disease
+090758 Radiation Oncology
+090759 Radio Isotopic Pathology
+090760 Rheumatology
+090761 Sports Medicine
+090762 Thoracic Surgery
+090763 Urology
+090764 Vascular Surgery
+090765 Adult Reconstructive Orthopaedics
+090766 Cytopathology
+090767 Geriatric Medicine (Internal Medicine)
+090768 Paediatric Urology
+090769 Orthopaedic Surgery of the Spine
+090770 Palliative Medicine
+090771 Genetic Counselling
+090799 Medical Clinical Sciences, Other
+0908 Nursing
+090801 Nursing, General
+090802 Nursing Administration
+090803 Adult Health Nursing
+090804 Nurse Anaesthetist
+090805 Neonatal Nursing and Midwifery
+090806 Nursing Science
+090807 Paediatric Nursing
+090808 Psychiatric Nursing
+090809 Public Health/Community Nursing
+090810 Preoperative/Operating Room and Surgical Nursing
+090811 Clinical Nurse Specialist Training
+090812 Critical Care Nursing
+090813 Occupational and Environmental Health Nursing
+090814 Geriatric Nursing
+090899 Nursing, Other
+0909 Optometry
+090901 Optometry
+0910 Osteopathic Medicine/Osteopathy
+091001 Osteopathic Medicine/Osteopathy
+0911 Pharmacy, Pharmaceutical Sciences and Administration
+091101 Pharmacy and Community Pharmacy, General
+091102 Pharmacy Administration and Pharmacy Policy
+091103 Pharmaceutics
+091104 Medicinal and Pharmaceutical Chemistry and Drug Design
+091105 Natural Products Chemistry and Pharmacognosy
+091106 Clinical and Industrial Drug Development
+091107 Pharmacoeconomics/Pharmaceutical Economics
+091108 Clinical, Hospital and Managed Care Pharmacy
+091109 Industrial and Physical Pharmacy and Cosmetic Science
+091199 Pharmacy, Pharmaceutical Sciences and Administration, Other
+0912 Podiatric Medicine/Podiatry
+091201 Podiatric Medicine/Podiatry
+0913 Public Health
+091301 Public Health, General
+091302 Environmental Health
+091303 Health/Medical Physics
+091304 Occupational Health and Industrial Hygiene
+091305 Public Health Education and Promotion
+091306 Community Health and Preventive Medicine
+091307 Maternal and Child Health
+091308 International Public Health/International Health
+091309 Health Services Administration
+091399 Public Health, Other
+0914 Rehabilitation and Therapeutic Professions
+091401 Art Therapy
+091402 Dance Therapy
+091403 Music Therapy
+091404 Occupational Therapy
+091405 Orthotist/Prosthetist Training
+091406 Physiotherapy
+091407 Adapted Physical Activity
+091408 Vocational Rehabilitation Counselling
+091409 Biokinetics/Kinesiotherapy
+091410 Assistive/Augmentative Technology and Rehabilitation Engineering
+091499 Rehabilitation and Therapeutic Professions, Other
+0915 Veterinary Medicine
+091501 Veterinary Medicine
+091502 Veterinary Nursing
+091599 Veterinary Medicine, Other
+0916 Veterinary Biomedical and Clinical Sciences
+091601 Veterinary Sciences/Veterinary Clinical Sciences, General
+091602 Veterinary Anatomy
+091603 Veterinary Anaesthesiology
+091604 Veterinary Dentistry
+091605 Veterinary Dermatology
+091606 Veterinary Emergency and Critical Care Medicine
+091607 Veterinary Internal Medicine
+091608 Veterinary Microbiology and Immunology
+091609 Veterinary Nutrition
+091610 Veterinary Ophthalmology
+091611 Veterinary Pathology
+091612 Veterinary Pathology and Pathobiology
+091613 Veterinary Physiology
+091614 Veterinary Preventative Medicine
+091615 Veterinary Radiology
+091616 Theriogenology
+091617 Veterinary Toxicology and Pharmacology
+091618 Large Animal/Food Animal and Equine Surgery and Medicine
+091619 Small/Companion Animal Surgery and Meds
+091620 Comparative and Laboratory Animal Meds
+091621 Veterinary Preventive Medicine Epidemiology and Public Health
+091622 Veterinary Infectious Diseases
+091699 Veterinary Biomedical and Clinical Sciences, Other
+0917 Medical Illustration and Informatics
+091701 Medical Illustration
+091702 Medical Informatics
+091799 Medical Illustration and Informatics, Other
+0918 Dietetics and Clinical Nutrition Services
+091801 Dietetics
+091802 Clinical Nutrition
+091899 Dietetics and Clinical Nutrition Services, Other
+0919 Bioethics/Medical Ethics
+091901 Bioethics/Medical Ethics
+0920 Alternative and Complementary Medicine and Medical Systems
+092001 Acupuncture
+092002 Naturopathic Medicine
+092003 Homeopathic Medicine
+092099 Alternative and Complementary Medicine and Medical Systems, Other
+0921 Somatic Bodywork and Related Therapeutic Services
+092101 Massage Therapy
+092102 Somatic Bodywork Therapy
+092199 Somatic Bodywork and Related Therapeutic Services, Other
+0922 Movement and Mind-Body Therapies and Education
+092201 Movement Therapy and Education
+092202 Yoga Therapy
+092299 Movement and Mind-Body Therapies and Education, Other
+0923 Energy and Biologically Based Therapies
+092301 Aromatherapy
+092302 Herbalism
+092399 Energy and Biologically Based Therapies, Other
+0924 Medical Radiologic Technology/Science (Radiography) 092401 Medical Radiologic Technology/Science (Radiography)
+0999 Health Professions and Related Clinical Sciences, Other
+10 Family Ecology and Consumer Sciences
+1001 Family and Consumer Sciences
+100101 Family and Consumer Sciences, General
+100102 Business Family and Consumer Sciences/Human Sciences
+100103 Family and Consumer Sciences Communication
+100104 Consumer Merchandising/Retailing Management
+100105 Consumer Psychology
+100199 Family and Consumer Sciences, Other
+1002 Family and Consumer Economics and Related Studies
+100201 Family Resource Management Studies, General
+100202 Consumer Economics
+100203 Consumer Services and Advocacy
+100299 Family and Consumer Economics and Related Services, Other
+1003 Foods, Nutrition and Related Services
+100301 Foods, Nutrition and Wellness Studies, General
+100302 Human Nutrition
+100303 Food Service Systems Administration/Management
+100399 Foods, Nutrition and Related Services, Other
+1004 Housing and Human Environments
+100401 Housing and Human Environments, General
+1005 Human Development, Family Studies and Related Services
+100501 Human Development and Family Studies, General
+100502 Adult Development and Ageing
+100503 Family Systems
+100504 Child Development
+100505 Family and Community Services
+100599 Human Development, Family Studies and Related Services, Other
+1006 Apparel and Textiles
+100601 Apparel and Textiles, General
+100602 Apparel and Textile Manufacture
+100603 Apparel and Textile Marketing Management
+100604 Fashion and Fabric Consultation
+100699 Apparel and Textiles, Other
+1099 Family Ecology and Consumer Sciences, Other
+11 Languages, Linguistics and Literature
+1113 Other African Languages and Literature
+12 Law
+1201 International Apects of Law
+120101 International Aspects of Law
+120102 Comparative Law
+120103 Foreign Legal Systems
+120104 Private International Law
+120105 Public International Law
+120106 International Trade Law
+120107 International Human Rights Law
+120108 International Humanitarian Law
+120109 International Criminal Law (ICL)
+120199 International Aspects of Law, Other
+1202 Perspectives on Law
+120201 Perspectives on Law
+120202 Legal History
+120203 Introduction to the Theory of Law
+120204 Jurisprudence
+120205 Roman Law
+120206 Indigenous African Law and Legal Pluralism
+120207 Religious Legal Systems
+120299 Perspectives on Law, Other
+1203 Mercantile Law
+120301 Mercantile Law, General
+120302 The Law of Associations
+120303 Corporate Law
+120304 Law of Partnerships
+120305 Law of Financial Institutions
+120306 Law of Payment Instruments
+120307 Intellectual Property Law
+120308 Law of Competition
+120309 Law of Insolvency
+120310 Law of Insurance
+120311 Labour Law
+120312 Tax Law
+120313 Shipping Law
+120314 Law of Carriage
+120315 Commercial Financing Law
+120316 Tourism Law
+120317 Law of Consumer Protection
+120318 Electronic Information and Communication Law
+120399 Mercantile Law, Other
+1204 Private Law
+120401 Private Law, General
+120402 Law of Obligations
+120403 Law of Contract
+120404 Law Relating to Specific Contracts
+120405 Law of Delict
+120406 Law Concerning other Obligations
+120407 Family Law
+120408 Law of Persons
+120409 Law of Succession
+120410 The Law of Trusts
+120411 The Law of Property
+120412 Water Law
+120413 The Law of Mines and Minerals
+120414 The Law of Estoppel
+120415 The Law of Damages
+120499 Private Law, Other
+1205 Public Law
+120501 Public Law, General
+120502 Administrative Law
+120503 Constitutional Law
+120504 Human Rights Law
+120505 Local Government Law
+120506 Criminal Law
+120507 Interpretation of Statutes
+120508 Medical Law
+120509 Media Law
+120510 Environmental Law
+120511 Education Law
+120599 Public Law, Other
+1206 Formal Law
+120601 Formal Law, General
+120602 Law of Alternative Dispute Resolution
+120603 Law of Civil Procedure
+120604 Law of Criminal Procedure
+120605 Law of Evidence
+120699 Formal Law, Other
+1207 Legal Profession
+120701 Legal Profession, General
+120702 Conveyancing
+120703 Notarial Practice
+120704 Legal Aid
+120705 Legal Ethics
+120706 Legal Techniques and Research
+120707 Legal Costs
+120708 Estate Planning
+120709 Administration of Estates
+120799 Legal Profession, Other
+1299 Law, Other
+13 Life Sciences
+1301 Biology, General
+130101 Biology/Biological Sciences, General
+1302 Biochemistry, Biophysics and Molecular Biochemistry
+130201 Biochemistry
+130202 Biophysics
+130203 Molecular Biology
+130204 Molecular Biochemistry
+130205 Molecular Biophysics
+130206 Structural Biology
+130207 Photobiology
+130208 Radiation Biology/Radiobiology
+130299 Biochemistry, Biophysics and Molecular Biochemistry, Other
+1303 Botany/Plant Biology
+130301 Botany/Plant Biology, General
+130302 Plant Pathology/Phytopathology
+130303 Plant Physiology
+130304 Plant Molecular Biology
+130399 Biology/Plant Biology, Other
+1304 Cell/Cellular Biology and Anatomical Sciences
+130401 Cell/Cellular Biology and Histology
+130402 Anatomy
+130403 Developmental Biology and Embryology
+130404 Neuroanatomy
+130405 Cell/Cellular Biology and Anatomy
+130499 Cell/Cellular Biology and Anatomical Sciences, Other
+1305 Microbiological Sciences and Immunology
+130501 Microbiology, General
+130502 Medical Microbiology and Bacteriology
+130503 Virology
+130504 Parasitology
+130505 Mycology
+130506 Immunology
+130599 Microbiological Sciences and Immunology, Other
+1306 Zoology/Animal Biology
+130601 Zoology/Animal Biology, General
+130602 Entomology
+130603 Animal Physiology
+130604 Animal Behaviour and Ethology
+130605 Wildlife Biology
+130699 Zoology/Animal Biology, Other
+1307 Genetics
+130701 Genetics, General
+130702 Molecular Genetics
+130703 Microbial and Eukaryotic Genetics
+130704 Animal Genetics
+130705 Plant Genetics
+130706 Human/Medical Genetics
+130799 Genetics, Other
+1308 Physiology, Pathology and Related Sciences
+130801 Physiology, General
+130802 Molecular Physiology
+130803 Cell Physiology
+130804 Endocrinology
+130805 Reproductive Biology
+130806 Neurobiology and Neurophysiology
+130807 Cardiovascular Science
+130808 Exercise Physiology
+130809 Vision Science/Physiological Optics
+130810 Pathology/Experimental Pathology
+130811 Oncology and Cancer Biology
+130812 Sport and Exercise Sciences/Kinesiology
+130899 Physiology, Pathology and Related Sciences, Other
+1309 Pharmacology and Toxicology
+130901 Pharmacology
+130902 Molecular Pharmacology
+130903 Neuropharmacology
+130904 Toxicology
+130905 Molecular Toxicology
+130906 Environmental Toxicology
+130907 Pharmacology and Toxicology
+130999 Pharmacology and Toxicology, Other
+1310 Biomathematics and Bioinformatics
+131001 Biometry/Biometrics
+131002 Biostatistics
+131003 Bioinformatics
+131004 Mathematical Biology
+131099 Biomathematics and Bioinformatics, Other
+1311 Biotechnology
+131101 Biotechnology
+1312 Ecology, Evolution, Systematics and Population Biology
+131201 Ecology
+131202 Marine Biology and Biological Oceanography
+131203 Evolutionary Biology
+131204 Aquatic Biology/Limnology
+131205 Environmental Biology
+131206 Population Biology
+131207 Conservation Biology
+131208 Systematic Biology/Biological Systematics
+131209 Epidemiology
+131299 Ecology, Evolution, Systematics and Population Biology, Other
+1399 Life Sciences, Other
+14 Physical Sciences
+1401 Physical Sciences, General
+140101 Physical Sciences, General
+1402 Astronomy and Astrophysics
+140201 Astronomy
+140202 Astrophysics
+140203 Planetary Astronomy and Science
+140204 Space Physics
+140299 Astronomy and Astrophysics, Other
+1403 Atmospheric Sciences and Meteorology
+140301 Atmospheric Sciences and Meteorology, General
+140302 Atmospheric Chemistry and Climatology
+140303 Atmospheric Physics and Dynamics
+140304 Meteorology
+140399 Atmospheric Sciences and Meteorology, Other
+1404 Chemistry
+140401 Chemistry, General
+140402 Analytical Chemistry
+140403 Inorganic Chemistry
+140404 Organic Chemistry
+140405 Physical and Theoretical Chemistry
+140406 Polymer Chemistry
+140407 Chemical Physics
+140499 Chemistry, Other
+1405 Geography and Cartography
+140501 Geography
+140502 Cartography
+140503 Environmental Science
+140504 Natural Resources and Environmental Management and Policy
+140599 Geography and Cartography, Other
+1406 Geology and Earth Sciences/Geosciences
+140601 Geology/Earth Science, General
+140602 Geochemistry
+140603 Geophysics and Seismology
+140604 Palaeontology
+140605 Hydrology and Water Resources Science
+140606 Geochemistry and Petrology
+140607 Oceanography, Chemical and Physical
+140699 Geology and Earth Sciences/Geosciences, Other
+1407 Physics
+140701 Physics, General
+140702 Atomic/Molecular Physics
+140703 Elementary Particle Physics
+140704 Plasma and High Temperature Physics
+140705 Nuclear Physics
+140706 Optics/Optical Sciences
+140707 Solid State and Low Temperature Physics
+140708 Acoustics
+140709 Theoretical and Mathematical Physics
+140799 Physics, Other
+1499 Physical Sciences, Other
+15 Mathematics and Statistics
+1501 Mathematics
+150101 Mathematics, General
+150102 Algebra and Number Theory
+150103 Analysis and Functional Analysis
+150104 Geometry/Geometric Analysis
+150105 Topology and Foundations
+150199 Mathematics, Other
+1502 Applied Mathematics
+150201 Applied Mathematics, General
+150202 Computational Mathematics
+150299 Applied Mathematics, Other
+1503 Statistics
+150301 Statistics, General
+150302 Mathematical Statistics and Probability
+150399 Statistics, Other
+1599 Mathematics and Statistics, Other
+16 Military Sciences
+1601 Defence Organisation and Resource Management
+160101 Military Accounting and Auditing
+160102 Military Economics
+160103 Military Management
+160104 Military Public and Development Management
+160199 Defence Organisation and Resource Management, Other
+1602 Military Human Resource Management and Development
+160201 Military Sociology
+160202 Military Industrial Psychology
+160299 Military Human Resource Management and Development, Other
+1603 Military Technology and Applied Physical Science
+160301 Military Aeronautical Science
+160302 Military Technology
+160303 Military Nautical Science
+160304 Military Mathematics
+160305 Military Physics
+160306 Military Geography
+160307 Military Computer Information Systems
+160399 Military Technology and Applied Physical Science, Other
+1604 Military Security Studies
+160401 Military History
+160402 Military Strategy
+160403 Military Political Science
+160499 Military Security Studies, Other
+1605 Military Professional Development
+160501 Military Professional Development
+1699 Military Sciences, Other
+17 Philosophy, Religion and Theology
+1701 Philosophy
+170101 Philosophy, General
+170102 Main Philosophical Currents and Trends
+170103 Logic
+170104 Ethics
+170199 Philosophy, Other
+1702 Religion
+170201 Religion
+1703 Theology
+170301 African Indigenous Religions
+170302 Buddhism
+170303 Christianity
+170304 Hinduism
+170306 Islam
+170307 Judaism
+170399 Theology, Other
+1799 Philosophy, Religion and Theology, Other
+18 Psychology
+1801 Psychology, General
+180101 Psychology, General
+1802 Clinical Psychology
+180201 Clinical Psychology, General
+180202 Clinical Child Psychology
+180203 Clinical Psychology, Professional Studies
+180299 Clinical Psychology, Other
+1803 Cognitive Psychology and Psycholinguistics
+180301 Cognitive Psychology and Psycholinguistics
+1804 Community Psychology
+180401 Community Psychology
+1805 Comparative Psychology
+180501 Comparative Psychology
+1806 Counselling Psychology
+180601 Counselling Psychology
+180602 Family Psychology
+180603 Marriage and Family Therapy/Counselling
+180699 Counselling Psychology, Other
+1807 Developmental and Child Psychology
+180701 Developmental and Child Psychology
+1808 Educational Psychology
+180801 Educational Psychology
+180802 School Psychology
+180899 Educational Psychology, Other
+1809 Environmental Psychology
+180901 Environmental Psychology
+1810 Research Methodology for Psychology
+181001 Research Methodology for Psychology
+1811 Forensic Psychology
+181101 Forensic Psychology
+1812 Geropsychology
+181201 Geropsychology
+1813 Health/Medical Psychology
+181301 Health/Medical Psychology
+181302 Psychopharmacology
+181399 Health/Medical Psychology, Other
+1814 Industrial and Organisational Psychology
+181401 Industrial and Organisational Psychology, General
+181402 Occupational and Career Psychology
+181403 Organisasional Psychology
+181404 Occupational Health, Well-being and Performance Dysfunction in the Workplace
+181499 Industrial and Organisational Psychology, Other
+1815 Personality Psychology
+181501 Personality Psychology
+1816 Physiological Psychology/Psychobiology
+181601 Physiological Psychology/Psychobiology
+181602 Biopsychology
+181603 Neoropsychology
+181699 Physiological Psychology/Psychobiology, Other
+1817 Psychometrics and Applied Psychological Assessment
+181701 Psychometrics and Quantitative Psychology
+181702 Applied Psychological Assessment
+181799 Psychometrics and Applied Psychological Assessment, Other
+1818 Social Psychology
+181801 Social Psychology, General
+181802 Positive Psychology
+181899 Social Psychology, Other
+1899 Psychology, Other
+19 Public Management and Services
+1901 Human Services
+190101 Human Services, General
+1902 Community Organisation and Advocacy
+190201 Community Organisation and Advocacy
+1903 Public Administration
+190301 Public Administration
+1904 Public Policy Analysis
+190401 Public Policy Analysis
+1905 Criminal Justice and Corrections
+190501 Corrections
+190502 Criminal Justice/Law Enforcement Administration
+190503 Criminal Justice/Safety Issues
+190504 Forensic Science and Technology
+190505 Criminal Justice/Police Science
+190506 Juvenile Corrections
+190507 Criminalistics and Criminal Science
+190508 Corrections Management
+190599 Criminal Justice and Corrections, Other
+1999 Public Management and Services, Other
+20 Social Sciences
+2001 Anthropology
+200101 Social-Cultural Anthropology,
+200102 Physical (Biological) Anthropology
+200199 Anthropology, Other
+2002 Archaeology
+200201 Archaeology
+2003 History
+200301 History, General
+200302 African History
+200303 American (United States) History
+200304 Asian History
+200305 European History
+200306 History and Philosophy of Science and Technology
+200307 South African History
+200308 History of Ancient Cultures
+200399 History, Other
+2004 Library Science/Librarianship
+200401 Library Science/Librarianship, General
+200402 Public/Applied History and Archival Administration
+200499 Library Science/Librarianship, Other
+2005 Museology/Museum Studies
+200501 Museology/Museum Studies
+2006 Political Science and Government
+200601 Political Science and Government, General
+200602 Comparative Political Systems
+200603 Contemporary World Affairs
+200604 International Relations and Affairs
+200699 Political Science and Government, Other
+2007 Sociology
+200701 Sociology
+200702 Demography and Population Studies
+200703 The Sociology of Developing Societies
+200799 Sociology, Other
+2007 Social Work
+200701 Social Work, General
+200702 Child and Youth Services/Administration 200899 Social Work, Other
+2099 Social Sciences, Other
